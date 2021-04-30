@@ -15,3 +15,6 @@ print("합은", sum)
 score = 10
 score = score +1
 print("합", score)
+
+
+print("Adasdasd")
